@@ -2,3 +2,4 @@ Thumbs.db
 .DS_Store
 .ipynb_checkpoints/
 dotnet-sdk-8.0.303-osx-arm64.pkg
+day2_dataset_adaptation_toobig.csv
